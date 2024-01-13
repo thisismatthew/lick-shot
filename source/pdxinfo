@@ -1,0 +1,7 @@
+name=Lick Shot
+author=Toot Games
+description= Get them flies.
+bundleID=au.com.toot.arm1
+version=0.0.2
+imagePath=card.png
+buildNumber=1
